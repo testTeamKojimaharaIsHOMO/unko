@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 繧ｳ繧ｸ繝槭Λ繝偵ョ繝･繧ｭ : BokuhaUnkodearimasu!!asdfasd
 asdfiajs;dfklj
 コジマasdfsadラヒデュキ : BokuhaUnkodearimasu!!
@@ -18,7 +17,9 @@ za
 xz;coiuaspodfuiasodfui
 
 昔々あるところにこじまはらというunkoがいました。
-=======
 コジマラヒデュキ : BokuhaUnkodearimasu!!
 yappariUnkodehaarimasenn!!!
->>>>>>> 1d594d59f59299f7723b9a61e4c91b9f487cbf78
+
+void ReturnYotyan(){
+return akusyuu;
+}
