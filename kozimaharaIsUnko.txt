@@ -20,6 +20,6 @@ xz;coiuaspodfuiasodfui
 コジマラヒデュキ : BokuhaUnkodearimasu!!
 yappariUnkodehaarimasenn!!!
 
-void ReturnYotyan(){
-return akusyuu;
+void* ReturnYotyan(){
+return [](){akusyuu};
 }
