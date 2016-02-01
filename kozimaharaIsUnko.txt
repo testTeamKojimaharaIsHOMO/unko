@@ -26,4 +26,6 @@ void* ReturnYotyan(){
 return [](){akusyuu};
 }
 
+fa;sjfkjsda;fkjsda
+
 UIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUI
