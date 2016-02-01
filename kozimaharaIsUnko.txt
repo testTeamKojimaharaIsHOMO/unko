@@ -1,3 +1,5 @@
+UIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUI
+
 繧ｳ繧ｸ繝槭Λ繝偵ョ繝･繧ｭ : BokuhaUnkodearimasu!!asdfasd
 asdfiajs;dfklj
 コジマasdfsadラヒデュキ : BokuhaUnkodearimasu!!
@@ -23,3 +25,5 @@ yappariUnkodehaarimasenn!!!
 void* ReturnYotyan(){
 return [](){akusyuu};
 }
+
+UIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUI
